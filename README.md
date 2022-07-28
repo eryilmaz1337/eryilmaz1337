@@ -13,15 +13,15 @@
 
 |Project|Score| 
 -------|-------------------
-| Libft <img width=250>| [![eryilmaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2473029)](https://github.com/eryilmaz/Libft)|
-| Born2Beroot| [![eryilmaz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2520388)](https://github.com/denizkarhan)|
-| GetNextLine| [![eryilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2506527)](https://github.com/denizkarhan/get_next_line)|
-| Printf| [![eryilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2513369)](https://github.com/denizkarhan/ft_printf)|
-| Mini Talk| [![eryilmaz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2548360)](https://github.com/denizkarhan/Mini-talk)|
-| Push_Swap| [![eryilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2524763)](https://github.com/denizkarhan/Push_swap)|
-| So_long | [![eryilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2570719)](https://github.com/denizkarhan/Fract-ol)|
-| Philosophers| [![eryilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2541948)](https://github.com/denizkarhan)|
-| ExamRank02| [![dkarhan's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2541816)](https://github.com/denizkarhan)|
-| ExamRank03| [![eryilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2644077)](https://github.com/denizkarhan)|
+| Libft <img width=250>| [![eryilmaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2473029)](https://github.com/eryilmaz)|
+| Born2Beroot| [![eryilmaz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2520388)](https://github.com/eryilmaz)|
+| GetNextLine| [![eryilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2506527)](https://github.com/eryilmaz)|
+| Printf| [![eryilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2513369)](https://github.com/eryilmaz)|
+| Mini Talk| [![eryilmaz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2548360)](https://github.com/eryilmaz)|
+| Push_Swap| [![eryilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2524763)](https://github.com/eryilmaz)|
+| So_long | [![eryilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2570719)](https://github.com/eryilmaz)|
+| Philosophers| [![eryilmaz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2643965)](https://github.com/eryilmaz)|
+| ExamRank02| [![eryilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2541948)](https://github.com/eryilmaz)|
+| ExamRank03| [![eryilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2644077)](https://github.com/eryilmaz)|
 </td></tr></table>
 </p>
