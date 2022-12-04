@@ -21,7 +21,7 @@
 | Push_Swap| [![eryilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2524763)](https://github.com/erdem149/push_swap)|
 | So_long | [![eryilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2570719)](https://github.com/erdem149/so_long)|
 | Philosophers| [![eryilmaz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2643965)](https://github.com/erdem149/philosophers)|
-| ExamRank02| [![eryilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2541948)](https://github.com/eryilmaz)|
-| ExamRank03| [![eryilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2644077)](https://github.com/eryilmaz)|
+| ExamRank02| [![eryilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2773901)](https://github.com/JaeSeoKim/badge42)|
+| ExamRank03| [![eryilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/project/2799824)](https://github.com/JaeSeoKim/badge42)|
 </td></tr></table>
 </p>
