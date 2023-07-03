@@ -27,10 +27,10 @@
 </h3>
 <br>
 <p align="center">
-<a href="https://github.com/erdem149"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=erdem149&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erdem149&theme=tokyonight&layout=compact&bg_color=0e1116" />
+<a href="https://github.com/erdem149"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=erdem149&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eryilmaz1337&theme=tokyonight&layout=compact&bg_color=0e1116" />
 </p>
 <p align="center">
     <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=erdem149&theme=darkhub&column=-1">
+        <img src="https://github-profile-trophy.vercel.app/?username=eryilmaz1337&theme=darkhub&column=-1">
     </a>
 </p>
