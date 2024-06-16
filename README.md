@@ -9,7 +9,10 @@
   ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
   ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
   ![C#](https://img.shields.io/badge/-CSharp-111111?style=flat&logo=C%20Sharp)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
   ![SQL](https://img.shields.io/badge/-MSSQL-111111?style=flat&logo=sql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github)
