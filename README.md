@@ -8,9 +8,11 @@
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
   ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
-  ![C#](https://img.shields.io/badge/-CSharp-111111?style=flat&logo=C%20Sharp)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![SQL](https://img.shields.io/badge/-MSSQL-111111?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
